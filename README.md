@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Perkenalkan nama saya **Syaekhul Huda Mardhotillah**.<br>
+
+Seorang Mahasiswa program studi Sistem Informasi. Mempunyai motivasi tinggi dengan kemampuan kepemimpinan, inisiatif, dan mencari tantangan baru, berkepribadian disiplin, teliti, sabar mampu bekerja individu maupun dalam tim. Memiliki minat kerja dibidang IT (Informasi Teknologi).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](nkedin.com/in/syaekhul-huda-mardhotillah-4b641624a/)ku ya.
 <!--
 **Syaekhul/Syaekhul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
