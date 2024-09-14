@@ -5,6 +5,13 @@ Perkenalkan nama saya **Syaekhul Huda Mardhotillah**.<br>
 Seorang Mahasiswa program studi Sistem Informasi. Mempunyai motivasi tinggi dengan kemampuan kepemimpinan, inisiatif, dan mencari tantangan baru, berkepribadian disiplin, teliti, sabar mampu bekerja individu maupun dalam tim. Memiliki minat kerja dibidang IT (Informasi Teknologi).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](nkedin.com/in/syaekhul-huda-mardhotillah-4b641624a/)ku ya.
+
+<p align="left">
+<a href="https://github.com/syaekhul">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syaekhul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syaekhul&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **Syaekhul/Syaekhul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
