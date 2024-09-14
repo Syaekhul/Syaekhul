@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Semua
 
 Perkenalkan nama saya **Syaekhul Huda Mardhotillah**.<br>
 
