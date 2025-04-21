@@ -4,7 +4,9 @@ Perkenalkan nama saya **Syaekhul Huda Mardhotillah**.<br>
 
 Seorang Mahasiswa program studi Sistem Informasi. Mempunyai motivasi tinggi dengan kemampuan kepemimpinan, inisiatif, dan mencari tantangan baru, berkepribadian disiplin, teliti, sabar mampu bekerja individu maupun dalam tim. Memiliki minat kerja dibidang IT (Informasi Teknologi).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](nkedin.com/in/syaekhul-huda-mardhotillah-4b641624a/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/syaekhul-huda-mardhotillah)ku ya.
+
+Vibe Coding Enjoyer ✋🏼😎✋🏼
 
 <p align="left">
 <a href="https://github.com/syaekhul">
